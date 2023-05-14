@@ -1,0 +1,37 @@
+
+.dropdown-item {
+  padding-left: 8px;
+  padding-right: 8px;
+  font-weight: bold;
+  font-size: 14px;
+  color: #fff!important;
+  text-align: center;
+}
+
+.dropdown-text {
+  padding-left: 8px;
+  line-height: 24px;
+}
+
+.dropdown-item-icon {
+  font-size: 22px;
+  vertical-align: middle
+}
+
+.dropdown-toggle::after {
+  margin-left: auto;
+}
+
+.resultSelector {
+  padding: 7px;
+  width: 100%;
+}
+
+.dropdown {
+  margin-right: 0px;
+}
+
+.dropdown-toggle {
+  width: 195px;
+  text-align: center;
+}

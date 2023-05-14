@@ -1,0 +1,20 @@
+
+.btn-primary {
+  border-radius: 3px;
+  background-color: #d33479;
+  border: 1px solid #d33479;
+}
+
+.btn-primary:hover {
+  background-color: #3479D3;
+  border: 1px solid #3479D3;
+}
+
+.btn-return {
+  width: 100%;
+  margin-bottom: 4px;
+}
+
+.btn-upload {
+  width: 100%;
+}

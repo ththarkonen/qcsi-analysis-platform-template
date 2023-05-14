@@ -1,0 +1,44 @@
+.sidebar {
+  height: calc( 100vh - 58px);
+  width: 235px;
+  margin-left: 2px;
+  background-color: #333;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.col-sidebar {
+  height: 100vh;
+  max-width: 300px;
+  padding: 5px;
+}
+
+.sidebar::-webkit-scrollbar{
+  display: none;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.hr-bottom {
+  margin-top:
+}
+
+.project-list {
+  padding: 2px;
+}
+
+.project-link {
+  padding: 2px;
+}
+
+.project-link:hover, .project-link:active, .project-link:focus {
+  background-color: #d33479;
+}
+
+.invert-toggle {
+  --toggle-width: 100%;
+}
